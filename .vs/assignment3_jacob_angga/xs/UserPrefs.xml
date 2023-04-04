@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F8BA3672-CEEA-4483-8E7D-8C055C257FB4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
+  <MonoDevelop.Ide.ItemProperties.assignment3__jacob__angga PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment3_jacob_angga/MainPage.xaml">
+    <Files>
+      <File FileName="assignment3_jacob_angga/MainPage.xaml.cs" />
+      <File FileName="assignment3_jacob_angga/MainPage.xaml" Line="9" Column="39" />
+      <File FileName="assignment3_jacob_angga/ProvinceView.xaml" />
+      <File FileName="assignment3_jacob_angga/ProvinceView.xaml.cs" />
+      <File FileName="assignment3_jacob_angga/AppShell.xaml" />
+      <File FileName="assignment3_jacob_angga/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="assignment3_jacob_angga" expanded="True">
+            <Node name="assignment3_jacob_angga" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="ProvinceView.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
